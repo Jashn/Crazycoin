@@ -1,0 +1,3 @@
+# Crazycoin
+
+# manage Virtual coins
